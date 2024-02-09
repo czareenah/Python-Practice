@@ -2,7 +2,7 @@
 
 # Requirement 1: Each guess should prompt a clue whether the number in question is higher or lower or if it is right
 
-#Requirement 2: Show how many guesses it took the user to guess the number
+# Requirement 2: Show how many guesses it took the user to guess the number
 
 # Requirement 3: Add a pause after each interaction to provide a more realistic effect
 
