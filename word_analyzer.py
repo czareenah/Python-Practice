@@ -1,6 +1,7 @@
-#Create a word counter project that can count the amount of text in a set piece
+# Create a word counter project that can count the amount of text in a set piece
 
-#Requirement 1 - Split the string
+# Requirement 1 - Split the string
+
 #Requirement 2 - Show how may time unique words appear in the text
 
 poem = """Desiderata: Original Text
